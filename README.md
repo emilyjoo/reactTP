@@ -61,10 +61,10 @@ Expliquez votre solution ici
 ### Exercice 2 : Hooks Personnalisés
 #### Objectif : Créer des hooks réutilisables
 
-- [ ] 2.1 Créer le hook `useDebounce` pour optimiser la recherche
-- [ ] 2.2 Créer le hook `useLocalStorage` pour persister les préférences utilisateur
-- [ ] 2.3 Utiliser ces hooks dans l'application
-- [ ] 2.4 Documenter votre solution ici
+- [x] 2.1 Créer le hook `useDebounce` pour optimiser la recherche
+- [x] 2.2 Créer le hook `useLocalStorage` pour persister les préférences utilisateur
+- [x] 2.3 Utiliser ces hooks dans l'application
+- [x] 2.4 Documenter votre solution ici
 
 _Votre réponse pour l'exercice 2 :_
 ```
@@ -75,10 +75,10 @@ Expliquez votre solution ici
 ### Exercice 3 : Optimisation et Context
 #### Objectif : Gérer le thème global et optimiser les rendus
 
-- [ ] 3.1 Créer le `ThemeContext` pour gérer le thème clair/sombre
-- [ ] 3.2 Implémenter le composant `ThemeToggle`
-- [ ] 3.3 Utiliser `useCallback` et `useMemo` pour optimiser les performances
-- [ ] 3.4 Documenter votre solution ici
+- [x] 3.1 Créer le `ThemeContext` pour gérer le thème clair/sombre
+- [x] 3.2 Implémenter le composant `ThemeToggle`
+- [x] 3.3 Utiliser `useCallback` et `useMemo` pour optimiser les performances
+- [x] 3.4 Documenter votre solution ici
 
 _Votre réponse pour l'exercice 3 :_
 ```
@@ -89,10 +89,10 @@ Expliquez votre solution ici
 ### Exercice 4 : Fonctionnalités avancées
 #### Objectif : Ajouter des fonctionnalités de chargement et détail
 
-- [ ] 4.1 Implémenter le chargement infini des posts avec `useIntersectionObserver`
-- [ ] 4.2 Créer le composant `PostDetails` pour afficher les détails d'un post
-- [ ] 4.3 Ajouter la fonctionnalité de filtrage par tags
-- [ ] 4.4 Documenter votre solution ici
+- [x] 4.1 Implémenter le chargement infini des posts avec `useIntersectionObserver`
+- [x] 4.2 Créer le composant `PostDetails` pour afficher les détails d'un post
+- [x] 4.3 Ajouter la fonctionnalité de filtrage par tags
+- [x] 4.4 Documenter votre solution ici
 
 _Votre réponse pour l'exercice 4 :_
 ```
