@@ -69,7 +69,8 @@ Expliquez votre solution ici
 _Votre réponse pour l'exercice 2 :_
 ```
 Expliquez votre solution ici
-[Ajoutez vos captures d'écran]
+![image](https://github.com/user-attachments/assets/030a28a9-ce46-4a92-8726-ee65459f58ed)
+
 ```
 
 ### Exercice 3 : Optimisation et Context
@@ -83,7 +84,8 @@ Expliquez votre solution ici
 _Votre réponse pour l'exercice 3 :_
 ```
 Expliquez votre solution ici
-[Ajoutez vos captures d'écran]
+![image](https://github.com/user-attachments/assets/ab4c26d8-2317-4f3e-8657-fd85bb97c913)
+
 ```
 
 ### Exercice 4 : Fonctionnalités avancées
