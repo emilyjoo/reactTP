@@ -55,7 +55,7 @@ Pour chaque exercice :
 _Votre réponse pour l'exercice 1 :_
 ```
 Expliquez votre solution ici
-[Ajoutez vos captures d'écran]
+[![image](https://github.com/user-attachments/assets/6a941f70-7108-4974-9ed2-3e64c1fddbff)]
 ```
 
 ### Exercice 2 : Hooks Personnalisés
@@ -69,7 +69,7 @@ Expliquez votre solution ici
 _Votre réponse pour l'exercice 2 :_
 ```
 Expliquez votre solution ici
-![image](https://github.com/user-attachments/assets/030a28a9-ce46-4a92-8726-ee65459f58ed)
+[Ajoutez vos captures d'écran]
 
 ```
 
@@ -84,7 +84,7 @@ Expliquez votre solution ici
 _Votre réponse pour l'exercice 3 :_
 ```
 Expliquez votre solution ici
-![image](https://github.com/user-attachments/assets/ab4c26d8-2317-4f3e-8657-fd85bb97c913)
+[Ajoutez vos captures d'écran]
 
 ```
 
