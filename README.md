@@ -55,9 +55,9 @@ Pour chaque exercice :
 _Votre réponse pour l'exercice 1 :_
 ```
 Expliquez votre solution ici
-[![image](https://github.com/user-attachments/assets/6a941f70-7108-4974-9ed2-3e64c1fddbff)]
+[]
 ```
-
+![image](https://github.com/user-attachments/assets/6a941f70-7108-4974-9ed2-3e64c1fddbff)
 ### Exercice 2 : Hooks Personnalisés
 #### Objectif : Créer des hooks réutilisables
 
@@ -84,9 +84,10 @@ Expliquez votre solution ici
 _Votre réponse pour l'exercice 3 :_
 ```
 Expliquez votre solution ici
-[<img width="613" alt="reacttp" src="https://github.com/user-attachments/assets/198919ce-7d26-41d3-a58b-69943ea7656f" />]
+[]
 
 ```
+<img width="613" alt="reacttp" src="https://github.com/user-attachments/assets/198919ce-7d26-41d3-a58b-69943ea7656f" />
 
 ### Exercice 4 : Fonctionnalités avancées
 #### Objectif : Ajouter des fonctionnalités de chargement et détail
