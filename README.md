@@ -55,9 +55,9 @@ Pour chaque exercice :
 _Votre réponse pour l'exercice 1 :_
 ```
 Expliquez votre solution ici
-[]
 ```
-![image](https://github.com/user-attachments/assets/6a941f70-7108-4974-9ed2-3e64c1fddbff)
+![image](https://github.com/user-attachments/assets/87b5a1f6-0c08-41f1-b136-6189667fea25)
+
 ### Exercice 2 : Hooks Personnalisés
 #### Objectif : Créer des hooks réutilisables
 
@@ -69,9 +69,8 @@ Expliquez votre solution ici
 _Votre réponse pour l'exercice 2 :_
 ```
 Expliquez votre solution ici
-[Ajoutez vos captures d'écran]
-
 ```
+<img width="613" alt="reacttp" src="https://github.com/user-attachments/assets/198919ce-7d26-41d3-a58b-69943ea7656f" />
 
 ### Exercice 3 : Optimisation et Context
 #### Objectif : Gérer le thème global et optimiser les rendus
@@ -84,10 +83,7 @@ Expliquez votre solution ici
 _Votre réponse pour l'exercice 3 :_
 ```
 Expliquez votre solution ici
-[]
-
 ```
-<img width="613" alt="reacttp" src="https://github.com/user-attachments/assets/198919ce-7d26-41d3-a58b-69943ea7656f" />
 
 ### Exercice 4 : Fonctionnalités avancées
 #### Objectif : Ajouter des fonctionnalités de chargement et détail
