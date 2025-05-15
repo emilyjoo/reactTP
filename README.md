@@ -84,7 +84,7 @@ Expliquez votre solution ici
 _Votre réponse pour l'exercice 3 :_
 ```
 Expliquez votre solution ici
-[Ajoutez vos captures d'écran]
+[<img width="613" alt="reacttp" src="https://github.com/user-attachments/assets/198919ce-7d26-41d3-a58b-69943ea7656f" />]
 
 ```
 
